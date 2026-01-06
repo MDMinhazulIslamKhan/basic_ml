@@ -1,4 +1,4 @@
-# Python Virtual Environment Workflow
+# Python Virtual Environment
 
 ## 1. Create a virtual environment
 
@@ -49,9 +49,3 @@ pip install -r requirements.txt
 ```bash
 deactivate
 ```
-
-### Notes
-
-* Always activate the environment before installing packages.
-* `requirements.txt` contains all installed packages and their versions.
-* You can delete the environment by removing the `myenv/` folder.
